@@ -23,3 +23,4 @@ Input to the swarm:
 Ouput to the swarm:
 - An OPF (Online Prediction Framework) format text file which completely describes the bes model found. 
 
+It is possible to customize the parameters of the Swarm process.
